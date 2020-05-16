@@ -1,6 +1,6 @@
 # Minesweeper
 
-Using Microsoft Visual Studio, I created the game of Minesweeper. A user is able to select a percentage of difficulty and a desired board size before playing. If the game is completed, the user's score is calculated and the top 5 scores of the given board size are pulled from a text file and displayed.
+Using Microsoft Visual Studio, I created the game of Minesweeper. A user is able to select a percentage of difficulty and a desired board size before playing. If the game is completed successfully, the user's score is calculated and the top 5 scores of the given board size are pulled from a text file and displayed.
 
 This game was developed over a 6 step process:
 
@@ -12,19 +12,19 @@ This game was developed over a 6 step process:
 	6. Player Stats Class – Add class and additional form for player stats
 
 
-<h2>Design</h2>
+<h2>The Game</h2>
 
-The planning for this project included uses tools such as UML diagrams to determine class relationships, wireframes to outline each layout, as well as sitemap for page navigation. Below is a display of each of my UML diagrams and the sitemap used.
+In creating this project there were as
 
-<h3>UML Diagram</h3>
+<h3>Classes</h3>
 <p align="center">
-	<img src="Minesweeperpng/UML.png" alt="UML Diagram"/>
+	<img src="Minesweeperpng/Classes.png" alt="Classes"/>
 </p>
 
-<h3>Wireframes</h3>
-<p align="center">
-	<img src="Minesweeperpng/Wireframes.png" alt="Wireframes"/>
-</p>
+<h3>Logic</h3>
+<b>Flood Fill -</b> The
+
+<b>Game Loop -</b> The
 
 <h2>Console Application</h2>
 
@@ -40,7 +40,6 @@ Before creating the window forms, I developed a console application to build the
 
 The final product for this project was a working windows form application replicating the standard minesweeper game. Below are each of the forms showing the finished design and functioning game.
 
-<h3>Game Forms<h3>
 <p align="center">
 	<img src="Minesweeperpng/Forms.png" alt="Game Forms"/>
 </p>
