@@ -2,7 +2,7 @@
 
 Using Microsoft Visual Studio, I created the game of Minesweeper. A user is able to select a percentage of difficulty and a desired board size before playing. If the game is completed, the user's score is calculated and the top 5 scores of the given board size are pulled from a text file and displayed.
 
-This game was developed over a 6 step process.
+This game was developed over a 6 step process:
 
 	1. Console Application – Create Board, Cell, and Program classes
 	2. Interactive Playable Version – Game loop, selecting grid spaces
@@ -30,7 +30,7 @@ The planning for this project included uses tools such as UML diagrams to determ
 
 Before creating the window forms, I developed a console application to build the foundation of minesweeper. This included all of the game logic that the end product would have without the UI design.
 
-<h3>Console Application<h3>
+<h3>Playable Console App<h3>
 <p align="center">
 	<img src="Minesweeperpng/ConsoleApp.png" alt="Console Application"/>
 </p>
