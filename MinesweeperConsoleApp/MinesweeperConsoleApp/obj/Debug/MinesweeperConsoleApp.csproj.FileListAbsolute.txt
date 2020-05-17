@@ -1,0 +1,6 @@
+C:\Users\holla\source\repos\cst-227\MinesweeperConsoleApp\MinesweeperConsoleApp\bin\Debug\MinesweeperConsoleApp.exe.config
+C:\Users\holla\source\repos\cst-227\MinesweeperConsoleApp\MinesweeperConsoleApp\bin\Debug\MinesweeperConsoleApp.exe
+C:\Users\holla\source\repos\cst-227\MinesweeperConsoleApp\MinesweeperConsoleApp\bin\Debug\MinesweeperConsoleApp.pdb
+C:\Users\holla\source\repos\cst-227\MinesweeperConsoleApp\MinesweeperConsoleApp\obj\Debug\MinesweeperConsoleApp.csprojAssemblyReference.cache
+C:\Users\holla\source\repos\cst-227\MinesweeperConsoleApp\MinesweeperConsoleApp\obj\Debug\MinesweeperConsoleApp.exe
+C:\Users\holla\source\repos\cst-227\MinesweeperConsoleApp\MinesweeperConsoleApp\obj\Debug\MinesweeperConsoleApp.pdb
