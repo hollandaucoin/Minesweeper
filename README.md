@@ -22,9 +22,11 @@ In creating this project there were as
 </p>
 
 <h3>Logic</h3>
-<b>Flood Fill -</b> The
+<b>Flood Fill -</b> Flood fill is a recursive method within the board class that takes in the row and column of a cell, and reveals the neighboring cells that do not have live bombs nearby. As shown below, this function checks to see if the passed in row and column is a valid cell, not a bomb, and not visited. If all of those statements are true, that cell is set to true and checks to see if this cell point has any live neighbor bombs. If there are neighbor bombs the function will  return, otherwise it will continue and recursively call itself.
 
-<b>Game Loop -</b> The
+<p align="center">
+	<img src="Minesweeperpng/FloodFill.png" alt="Flood Fill"/>
+</p>
 
 <h2>Console Application</h2>
 
