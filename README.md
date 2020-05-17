@@ -14,7 +14,7 @@ This game was developed over a 6 step process:
 
 <h2>The Game</h2>
 
-In creating this project there were as
+In creating this project, I used various classes and forms to utilize the MVC design pattern. Below are the classes and the fill feature needed to complete the game.
 
 <h3>Classes</h3>
 <p align="center">
@@ -22,7 +22,7 @@ In creating this project there were as
 </p>
 
 <h3>Logic</h3>
-<b>Flood Fill -</b> Flood fill is a recursive method within the board class that takes in the row and column of a cell, and reveals the neighboring cells that do not have live bombs nearby. As shown below, this function checks to see if the passed in row and column is a valid cell, not a bomb, and not visited. If all of those statements are true, that cell is set to true and checks to see if this cell point has any live neighbor bombs. If there are neighbor bombs the function will  return, otherwise it will continue and recursively call itself.
+<i>Flood Fill -</i> Flood fill is a recursive method within the board class that takes in the row and column of a cell, and reveals the neighboring cells that do not have live bombs nearby. As shown below, this function checks to see if the passed in row and column is a valid cell, not a bomb, and not visited. If all of those statements are true, that cell is set to true and checks to see if this cell point has any live neighbor bombs. If there are neighbor bombs the function will  return, otherwise it will continue and recursively call itself.
 
 <p align="center">
 	<img src="Minesweeperpng/FloodFill.png" alt="Flood Fill"/>
