@@ -14,7 +14,7 @@ This game was developed over a 6 step process:
 
 <h2>The Game</h2>
 
-In creating this project, I used various classes and forms to utilize the MVC design pattern. Below are the classes and the fill feature needed to complete the game.
+In creating this project, I used various classes and forms to follow the MVC design pattern. Those classes as well as the recursive method needed are shown below.
 
 <h3>Classes</h3>
 <p align="center">
