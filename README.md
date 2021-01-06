@@ -1,3 +1,7 @@
+<p align="center">
+	<img src="AgendaApplicationPNG/Logo.png" alt="Logo"/>
+</p>
+
 # Minesweeper - Spring 2020
 
 Using Microsoft Visual Studio, I created the game of Minesweeper. A user is able to select a percentage of difficulty and a desired board size before playing. If the game is completed successfully, the user's score is calculated and the top 5 scores of the given board size are pulled from a text file and displayed.
