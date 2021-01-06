@@ -1,5 +1,5 @@
 <p align="center">
-	<img src="AgendaApplicationPNG/Logo.png" alt="Logo"/>
+	<img src="MinesweeperPNG/Logo.png" alt="Logo"/>
 </p>
 
 # Minesweeper - Spring 2020
